@@ -21,4 +21,4 @@ date:{
 }
 });
 
-module.exports=mongoose.model('User', useraSchema);
+module.exports=mongoose.model('User', userSchema);
